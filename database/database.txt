@@ -1,0 +1,8 @@
+Database name: db
+ Table user: users
+ Table scores: scores
+ Table category listing: categories
+ Table posts: posts
+ Table tags: tags
+ Table media: media
+ Table comments: comments
